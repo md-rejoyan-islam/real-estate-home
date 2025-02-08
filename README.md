@@ -23,13 +23,13 @@ This Real Estate website is designed to help users find their dream homes. It sh
 ## Links
 
 <a href="https://smart-real-estate.netlify.app">Preview Website</a> <br/>
-<a href="">GitHub Repository</a>
+<a href="https://github.com/md-rejoyan-islam/real-estate-home">GitHub Repository</a>
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-### Contact
+## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
